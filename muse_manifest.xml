@@ -1,0 +1,78 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://morris.free.nf" resolutions="1x" timestamp="1693273960751">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="3879698226" ref="about-me:illustrrator:index:logos:contact-us:layout-design"/>
+    <file name="about-me.css" crc="4258993983" ref="about-me"/>
+    <file name="illustrrator.css" crc="93647525" ref="illustrrator"/>
+    <file name="index.css" crc="4187225918" ref="index"/>
+    <file name="logos.css" crc="4184999103" ref="logos"/>
+    <file name="contact-us.css" crc="4091322277" ref="contact-us"/>
+    <file name="layout-design.css" crc="262719673" ref="layout-design"/>
+  </folder>
+  <folder name="assets">
+    <file name="muse_manifest.xml" crc="3847926310" seo="true" mt="1692920136000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="illustrrator:layout-design:logos:about-me:contact-us:index"/>
+    <file name="museutils.js" crc="275725342" ref="illustrrator:layout-design:logos:about-me:contact-us:index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="illustrrator:layout-design:logos:about-me:contact-us:index"/>
+    <file name="pie.js" crc="3827607177" ref="illustrrator"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="illustrrator:layout-design:logos:about-me:contact-us:index"/>
+    <file name="webpro.js" crc="3883484123" ref="illustrrator:layout-design:logos:about-me:contact-us:index"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="illustrrator:layout-design:logos:about-me:contact-us:index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="illustrrator:layout-design:logos:about-me:contact-us:index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="illustrrator:layout-design:logos:about-me:contact-us:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="illustrrator:layout-design:logos:about-me:contact-us:index"/>
+    <file name="form_check.php" crc="3932029206" ref="contact-us"/>
+    <file name="form_throttle.php" crc="314685628" ref="contact-us"/>
+    <file name="form_process.php" crc="401030677" ref="contact-us"/>
+    <file name="form-u1460.php" crc="184264573" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted svg 1597x1597.svg" crc="3998517550" ref="illustrrator:layout-design:logos:about-me:contact-us:index"/>
+    <file name="pasted svg 1597x1597_poster_.png" crc="3830866706" ref="illustrrator"/>
+    <file name="morris toles hip hop.jpg" crc="3953714430" seo="true" ref="illustrrator"/>
+    <file name="tshirt_shannoninn.jpg" crc="141972014" seo="true" ref="illustrrator"/>
+    <file name="xsport training fitness.jpg" crc="437417597" seo="true" ref="illustrrator"/>
+    <file name="big-morris-t01.gif" crc="326637511" seo="true" ref="illustrrator:layout-design"/>
+    <file name="xsport training fitness-crop-u909.jpg" crc="4205781904" ref="layout-design"/>
+    <file name="blank.gif" crc="4208392903" ref="layout-design"/>
+    <file name="morris-ask1.gif" crc="303169015" seo="true" ref="layout-design"/>
+    <file name="vic202_morris toles poster1-1.jpg" crc="394328265" seo="true" ref="layout-design"/>
+    <file name="vic202_morris toles poster1-3.jpg" crc="3898776725" seo="true" ref="layout-design"/>
+    <file name="vic202_morris toles poster1-5.jpg" crc="27879950" seo="true" ref="layout-design"/>
+    <file name="vic202_morris toles poster1-6.jpg" crc="340298473" seo="true" ref="layout-design"/>
+    <file name="shannon illustrator-crop-u1182.jpg" crc="3773301636" ref="layout-design"/>
+    <file name="tshirt_shannoninn-crop-u1191.jpg" crc="3877651803" ref="layout-design"/>
+    <file name="163625_10150125332809187_164691_n.jpg" crc="330509147" seo="true" ref="layout-design:logos"/>
+    <file name="167280_10150124604169187_6054398_n.jpg" crc="4196515872" seo="true" ref="layout-design"/>
+    <file name="170614_10150124607799187_4758386_o.jpg" crc="112693226" seo="true" ref="layout-design"/>
+    <file name="alien-big2.gif" crc="4218342603" seo="true" ref="layout-design"/>
+    <file name="xsport training fitness-crop-u902.jpg" crc="4140415240" ref="layout-design"/>
+    <file name="vic202_morris toles poster1-160x48.jpg" crc="146418316" seo="true" ref="layout-design"/>
+    <file name="vic202_morris toles poster1-360x48.jpg" crc="3878486424" seo="true" ref="layout-design"/>
+    <file name="vic202_morris toles poster1-560x48.jpg" crc="441037110" seo="true" ref="layout-design"/>
+    <file name="vic202_morris toles poster1-660x48.jpg" crc="144501624" seo="true" ref="layout-design"/>
+    <file name="shannon illustrator-crop-u1185.jpg" crc="429924706" ref="layout-design"/>
+    <file name="tshirt_shannoninn-crop-u1194.jpg" crc="3843163516" ref="layout-design"/>
+    <file name="163625_10150125332809187_164691_n60x45.jpg" crc="352605774" seo="true" ref="layout-design"/>
+    <file name="167280_10150124604169187_6054398_n-crop-u1221.jpg" crc="4004435623" ref="layout-design"/>
+    <file name="170614_10150124607799187_4758386_o60x45.jpg" crc="3763921802" seo="true" ref="layout-design"/>
+    <file name="loading.gif" crc="3815509949" ref="layout-design"/>
+    <file name="_morris_applesauce8.gif" crc="410024394" seo="true" ref="logos"/>
+    <file name="boss cars.png" crc="3885774661" seo="true" ref="logos"/>
+    <file name="aris grek family restaurant.png" crc="4081910694" seo="true" ref="logos"/>
+    <file name="morris6.gif" crc="3799692277" seo="true" ref="logos"/>
+    <file name="dscn0320.jpg" crc="4210489312" seo="true" ref="about-me"/>
+    <file name="u1476-17.png" crc="200884290" ref="contact-us"/>
+    <file name="u1476-17-r.png" crc="195222174" ref="contact-us"/>
+    <file name="u1476-17-m.png" crc="473606238" ref="contact-us"/>
+    <file name="u1476-17-fs.png" crc="59421444" ref="contact-us"/>
+  </folder>
+  <file name="illustrrator.html" crc="339376879" seo="true" mt="1692917510287" redirect="true"/>
+  <file name="layout-design.html" crc="247313280" seo="true" mt="1692917510287" redirect="true"/>
+  <file name="logos.html" crc="4152495179" seo="true" mt="1692917510287" redirect="true"/>
+  <file name="about-me.html" crc="4069214748" seo="true" mt="1692917510287" redirect="true"/>
+  <file name="contact-us.html" crc="3936300577" seo="true" mt="1692917510287" redirect="true"/>
+  <file name="index.html" crc="3881569341" seo="true" mt="1692917510300" redirect="true"/>
+</manifest>

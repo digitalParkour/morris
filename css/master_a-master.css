@@ -1,0 +1,259 @@
+#u117
+{
+	background-color: #8A5E00;
+}
+
+#buttonu228
+{
+	border-color: #787878;
+	background-color: #FFFFFF;
+	border-radius: 10px;
+	position: relative;
+}
+
+#buttonu228:hover
+{
+	background-color: #545454;
+}
+
+#buttonu228.ButtonSelected
+{
+	background-color: #FFFFFF;
+}
+
+#u229
+{
+	background-color: #000000;
+	position: relative;
+}
+
+#u230
+{
+	background-color: #000000;
+	position: relative;
+}
+
+#u231
+{
+	background-color: #000000;
+	position: relative;
+}
+
+#u281
+{
+	position: absolute;
+}
+
+#u233
+{
+	position: absolute;
+	border-style: none;
+	background-color: transparent;
+}
+
+#u234
+{
+	border-style: none;
+	background-color: #736357;
+	position: relative;
+}
+
+#menuu235,#u243,#u246
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u248-4
+{
+	border-style: none;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#u246:hover #u248-4
+{
+	background-color: transparent;
+}
+
+#u246:active #u248-4
+{
+	background-color: transparent;
+}
+
+#u246:active #u248-4 p
+{
+	color: #FF0000;
+	visibility: inherit;
+}
+
+#u264,#u265
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u267-4
+{
+	border-style: none;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#u246.MuseMenuActive #u248-4 p,#u265:active #u267-4 p
+{
+	color: #FF0000;
+	visibility: inherit;
+}
+
+#u236,#u239
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u241-4
+{
+	border-style: none;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#u265.MuseMenuActive #u267-4 p,#u239:active #u241-4 p
+{
+	color: #FF0000;
+	visibility: inherit;
+}
+
+#u250,#u251
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u252-4
+{
+	border-style: none;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#u246.MuseMenuActive #u248-4,#u251:hover #u252-4
+{
+	background-color: transparent;
+}
+
+#u251:active #u252-4
+{
+	background-color: transparent;
+}
+
+#u239.MuseMenuActive #u241-4 p,#u251:active #u252-4 p
+{
+	color: #FF0000;
+	visibility: inherit;
+}
+
+#u1527,#u1530
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1533-4
+{
+	border-style: none;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#u251.MuseMenuActive #u252-4,#u1530:hover #u1533-4
+{
+	background-color: transparent;
+}
+
+#u1530:active #u1533-4
+{
+	background-color: transparent;
+}
+
+#u1530.MuseMenuActive #u1533-4
+{
+	background-color: transparent;
+}
+
+#u251.MuseMenuActive #u252-4 p,#u1530:active #u1533-4 p
+{
+	color: #FF0000;
+	visibility: inherit;
+}
+
+#u1530.MuseMenuActive #u1533-4 p
+{
+	color: #FF0000;
+	visibility: inherit;
+}
+
+#u282
+{
+	position: absolute;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+}
+
+#u282:active
+{
+	background-color: #000000;
+}
+
+#u283-4
+{
+	background-color: transparent;
+	text-align: center;
+	font-size: 26px;
+	line-height: 31px;
+	font-family: Comic Sans, Comic Sans MS, cursive;
+	position: relative;
+}
+
+#u283-4:active p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+.MenuItem,.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u119
+{
+	background-color: #795100;
+}
+
+#u117_align_to_page,#u290,#pamphletu232,#u280,#u285,#u119_align_to_page
+{
+	position: relative;
+}
+
+#u1479
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
